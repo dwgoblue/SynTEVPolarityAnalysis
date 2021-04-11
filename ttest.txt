@@ -1,0 +1,9 @@
+fig2(37c), violin, DG50 vs TDGS50, t = -10.4615, p = 1.71989e-19
+fig2(37c), violin, DGS50 vs TDGS50, t = -11.2395, p = 6.56233e-22
+fig4, violin, NSSCP vs NSSC, t = 7.41673, p = 2.51389e-12
+fig3, violin, PS vs PSNC, t = 3.22195, p = 0.00145588
+fig3, violin, PS vs PSNSSC, t = 10.3977, p = 3.95098e-20
+fig3, violin, PSNC vs PSNSSC, t = 6.05472, p = 5.03099e-09
+fig1, bar, 116DG, 116DG52, t = 17.3227, p = 2.82562e-42
+fig1, bar, 116DG, 116DG50, t = 18.7238, p = 1.55423e-50
+fig1, bar, 116DG52, 116DG50, t = 34.9583, p = 1.46798e-88
