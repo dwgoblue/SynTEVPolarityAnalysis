@@ -1,0 +1,44 @@
+/*PLEASE DO NOT EDIT THE REGION BELOW*/
+"""
+INSTRUCTION
+[parent_path](absolute path)
+Please enter the path that is able to access your data.
+[input_mode](folder/file)
+Please indicate the type of input you are using.
+[channels](INT)
+Please type the number of channels recorded for each group.
+[PopZ](Y/N)
+Please indicate whether PopZ is present in each group.
+[labels](string)
+Please enter the name of each group.
+[name_N](e.g. name_1, name_2...)
+Please enter the name of the folder or file names.
+Add new row with name_X if needed.
+***Noted that do not leave any blank before and after
+semicolons and colons***
+Here is an example:
+=======================================================
+parent_path:/home/r04b43015/Download/figS7-NES-SGC/data
+input_mode:file
+group_number:3
+channels:2;2;2
+PopZ:Y;Y;Y
+labels:sfGFP;Blue;Green
+name_1:116RPNESSGC-3hr-1GFPNEW.mat;116RPNESSGC-3hr-3GFPNEW.mat
+name_2:116RPNESSGC-3hr-(1)(BFP);116RPNESSGC-3hr-(3)(BFP)
+name_3:116RP106sfGFP(37c-1)-02.mat;116RP106sfGFP(37c-1)-03.mat
+=======================================================
+
+"""
+/*PLEASE DO NOT EDIT THE ABOVE REGION*/
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+parent_path:
+input_mode:
+group_number:
+channels:
+PopZ:
+labels:
+name_1:
+name_2:
+name_3:
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
